@@ -2,6 +2,12 @@ package iuh.fit.se;
 
 import java.util.Scanner;
 
+/**
+ * @description: Main entry.
+ * @author: Mai The Hao
+ * @version: 1.0
+ * @created: 30-Aug-2025 00:35:00 AM
+ */
 public class TestCourse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

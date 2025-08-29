@@ -1,5 +1,11 @@
 package iuh.fit.se;
 
+/**
+ * @description: Course with id, title, credit, and department.
+ * @author: Mai The Hao
+ * @version: 1.0
+ * @created: 30-Aug-2025 00:35:00 AM
+ */
 public class Course {
 
     private int credit;

@@ -4,6 +4,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.List;
 
+/**
+ * @description: Course manager.
+ * @author: Mai The Hao
+ * @version: 1.0
+ * @created: 30-Aug-2025 00:35:00 AM
+ */
 public class CourseList {
     private int count;
     private Course[] courses;
